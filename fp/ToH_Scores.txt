@@ -1,0 +1,16 @@
+Player: Mykee
+Score: 20
+Disks: 4
+
+Player: qwerty
+Score: 8
+Disks: 3
+
+Player: Mich
+Score: 3
+Disks: 2
+
+Player: asdada
+Score: 4
+Disks: 2
+
